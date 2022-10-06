@@ -1,0 +1,5 @@
+s=input("enter your name")
+print(s)
+t=input("enter your pet name")
+print(t)
+print(f'Your band name will be {s} {t}')
